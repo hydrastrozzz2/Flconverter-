@@ -34,7 +34,7 @@ chaquopy {
     defaultConfig {
         version = "3.10"
         pip {
-            install("pyflp")
+            install("pyflp==3.0.1")
             install("lxml")
         }
     }
