@@ -34,7 +34,7 @@ chaquopy {
     defaultConfig {
         version = "3.8"
         pip {
-            install("pyflp==3.0.1")
+            install("pyflp==2.2.1")
         }
     }
 }
