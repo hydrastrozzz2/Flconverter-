@@ -32,10 +32,9 @@ android {
 
 chaquopy {
     defaultConfig {
-        version = "3.10"
+        version = "3.8"
         pip {
             install("pyflp==3.0.1")
-            install("lxml")
         }
     }
 }
